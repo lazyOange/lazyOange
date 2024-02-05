@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lazyOange
 - 👀 I’m interested in web development & designing
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS and for some reason Java too
+- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me at princemanandhar01@gmail.com
 
 <!---
